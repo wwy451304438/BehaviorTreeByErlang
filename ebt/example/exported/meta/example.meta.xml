@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--EXPORTED BY TOOL, DON'T MODIFY IT!-->
+<agents version="1" signature="992219798">
+  <agent type="my_agent" base="behaviac::Agent" signature="3599607262">
+    <properties>
+      <property name="BehaviacEBTStatus" type="behaviac::EBTStatus" member="false" static="false" defaultvalue="BT_SUCCESS" />
+      <property name="Bool" type="bool" member="false" static="false" defaultvalue="false" />
+      <property name="EBTStatus" type="EBTStatus" member="false" static="false" defaultvalue="BT_SUCCESS" />
+      <property name="Int" type="int" member="false" static="false" defaultvalue="123" />
+      <property name="IntArray" type="vector&lt;int&gt;" member="false" static="false" defaultvalue="3:1|2|3" />
+    </properties>
+  </agent>
+</agents>

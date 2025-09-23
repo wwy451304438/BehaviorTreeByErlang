@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<workspace name="example" folder="behaviors" export="exported" language="erl" version="3">
+  <export>
+    <erl>
+      <isexported>True</isexported>
+      <exportfilecount>1</exportfilecount>
+      <folder>../exported</folder>
+    </erl>
+    <xml>
+      <isexported>False</isexported>
+    </xml>
+  </export>
+</workspace>

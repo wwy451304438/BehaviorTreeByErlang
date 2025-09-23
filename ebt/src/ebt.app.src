@@ -1,0 +1,6 @@
+{application, ebt, [
+    {description, "behavior tree implement by erlang"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [kernel, stdlib]}
+]}.
